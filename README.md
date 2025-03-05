@@ -64,7 +64,7 @@ This project involves analyzing the **Superstore Sales Data** to segment custome
 ✔️ **Upselling strategies** for high-value customers.  
 
 ## 📸 Insights Visualization
-![Alt text](![image](https://github.com/user-attachments/assets/a071f1a1-9e63-44a4-ab39-facafc0a7e03))
+![Alt text](![image](https://github.com/ShakibShizan/superstore_sales/blob/694fcbf162057a7eb2f37e3113d216a9a3bd9c1a/Picture%20attachment/Cleaning_1.png)
 
 
 ## 🔗 Connect With Me
