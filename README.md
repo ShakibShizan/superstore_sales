@@ -18,6 +18,7 @@ This project involves analyzing the **Superstore Sales Data** to segment custome
 
 ### 🧹 Data Cleaning
 - Removed duplicates, handled missing values, and corrected inconsistencies.
+  (_Picture attachment/Cleaning_1.png_)
 
 ### 📊 Exploratory Data Analysis (EDA)
 - Analyzed product count, sales distribution, and customer demographics.
