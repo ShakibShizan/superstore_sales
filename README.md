@@ -4,11 +4,13 @@
 This project involves analyzing the **Superstore Sales Data** to segment customers based on **Recency, Frequency, and Monetary (RFM)** metrics. The analysis aims to understand customer behaviour and categorize them accordingly.
 
 ## 📂 Files
-- **Final Superstore Sales.sql** - The main SQL script for creating and populating the dataset.
-- **Superstore Sales Data.csv** - The raw sales data file.
-- **Create Database.sql** - This SQL script will create the database and tables.
-- **Data Cleaning & EDA.sql** - Data checks, cleaning, and exploratory data analysis.
-- **Rfm Segmentation.sql** - The script for implementing RFM segmentation.
+| File Name                     | Description                                              |
+|-------------------------------|----------------------------------------------------------|
+| **Final Superstore Sales.sql** | The main SQL script for creating and populating the dataset. |
+| **Superstore Sales Data.csv**  | The raw sales data file.                                |
+| **Create Database.sql**        | This SQL script will create the database and tables.    |
+| **Data Cleaning & EDA.sql**    | Data checks, cleaning, and exploratory data analysis.   |
+| **Rfm Segmentation.sql**       | The script for implementing RFM segmentation.          |
 
 **Note:** The database management system used is **MySQL**. Data was imported using the **Data Import Wizard Tool**.
 
@@ -28,10 +30,14 @@ This project involves analyzing the **Superstore Sales Data** to segment custome
 - **Geographic Insights:** The **Central** region had the highest profit margin (**20.42%**), followed by the **East** (**15.44%**) and **West** (**12.68%**), while the **South** region had the lowest (**5.71%**), indicating a need for strategic sales efforts in that area.
 - **Marketing Recommendations:** Suggested **targeted promotions for frequent buyers**, personalized discounts for at-risk customers, and upselling strategies for high-value customers.
 
+## 📸 Insights Visualization
+![Superstore Sales Insights](picture/insights.png)
+
 ## 🔗 Connect With Me
 If you have any questions or suggestions, feel free to reach out! 🚀  
-📧 **Email:** gotoshizan@gmail.com
-🔗 **LinkedIn:** [MD NAZMUS SHAKIB SHIZAN](https://www.linkedin.com/in/md-nazmus-shakib-shizan/)  
+📧 **Email:** gotoshizan@gmail.com  
+🔗 **LinkedIn:** [MD NAZMUS SHAKIB SHIZAN](https://www.linkedin.com/in/yourprofile/)  
 
 ---
 _If you find this project helpful, don't forget to 🌟 star the repository!_ ⭐
+
