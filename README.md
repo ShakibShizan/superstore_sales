@@ -24,6 +24,7 @@ This project involves analyzing the **Superstore Sales Data** to segment custome
 
 ### 🎯 Findings/Results
 - **Customer Segmentation:** Identified high-value customers using **RFM segmentation**, classifying them into groups such as **loyal customers, at-risk customers, and new customers**.
+  ![Superstore Sales Insights](rfm3.png)
 - **Product Performance:** Office Supplies had the highest profit margin (**42.53%**), Furniture had the lowest (**6.75%**), and Technology had the highest total sales revenue (**$3,507,134.42**).
 - **Geographic Insights:** The **Central** region had the highest profit margin (**20.42%**), followed by the **East** (**15.44%**) and **West** (**12.68%**), while the **South** region had the lowest (**5.71%**), indicating a need for strategic sales efforts in that area.
 - **Marketing Recommendations:** Suggested **targeted promotions for frequent buyers**, personalized discounts for at-risk customers, and upselling strategies for high-value customers.
