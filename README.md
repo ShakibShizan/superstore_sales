@@ -69,7 +69,7 @@ This project involves analyzing the **Superstore Sales Data** to segment custome
 ## 🔗 Connect With Me
 If you have any questions or suggestions, feel free to reach out! 🚀  
 📧 **Email:** gotoshizan@gmail.com  
-🔗 **LinkedIn:** [MD NAZMUS SHAKIB SHIZAN](https://www.linkedin.com/in/yourprofile/)  
+🔗 **LinkedIn:** [MD NAZMUS SHAKIB SHIZAN]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/md-nazmus-shakib-shizan/))  
 
 ---
 _If you find this project helpful, don't forget to 🌟 star the repository!_ ⭐
