@@ -3,7 +3,7 @@
 ## Overview
 This project involves analyzing the Superstore Sales Data to Segment based on Recency, Frequency and Monetary (RFM) metrics. The analysis aims to understand customer behavior and categorize them accordingly.
 
-##Files:
+## Files:
 - `sales_data.csv`: The raw sales data file 
 - `create_database.sql`: This SQL script will create the database and tables
 - 'data_cleaning_eda.sql': Data checks,_____________
@@ -16,4 +16,3 @@ Note: Database management system is MySQL. Data was imported using Data Import W
 3. **Exploratory Data Analysis (EDA):** Looked at product count
 
 ## Findings/Results:
-1. 
