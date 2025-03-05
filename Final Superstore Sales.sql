@@ -119,13 +119,6 @@ SELECT
     SUM(ABS(Quantity_ordered_new)) AS TOTAL_QUANTITY_ORDERED
 FROM superstore_sales;
 
-SELECT 
-    RETURN_STATUS,
-    COUNT(*) AS STATUS_COUNT
-FROM superstore_sales
-WHERE RETURN_STATUS NOT REGEXP '^[0-9]+$'
-GROUP BY RETURN_STATUS;
-
 -- TOP PRODUCTS CATEGORY
 SELECT 
     Product_Category,
