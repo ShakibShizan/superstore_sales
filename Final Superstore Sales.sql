@@ -42,6 +42,7 @@ FROM superstore_sales
 GROUP BY Row_ID
 HAVING COUNT(*) > 1; -- Checking Duplicates
 
+SET SQL_SAFE_UPDATES = 0;
 
 SELECT ORDER_DATE, SHIP_DATE
 FROM superstore_sales
