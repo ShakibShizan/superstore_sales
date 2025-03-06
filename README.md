@@ -26,7 +26,7 @@ This project involves analyzing the **Superstore Sales Data** to segment custome
 
 ### 🎯 Findings/Results
 #### 📌 Basic Insights (EDA Summary)
-| Total Customers | Return Rate | Avg. Order Value ($) | Product-Based Margin | Total Profit ($) | Total Sales ($) | Overall Profit Margin | Total Transactions | Total Quantity Sold |
+| Total Customers | Return Rate | Avg. Shipping Cost ($) | Product-Based Margin | Total Profit ($) | Total Sales ($) | Overall Profit Margin | Total Transactions | Total Quantity Sold |
 |---------------|------------|------------------|----------------|----------------|--------------|----------------|----------------|------------------|
 | **2669**     | **5%**     | **$13**          | **0.66**       | **$1,946,247** | **$8,698,172** | **22.38%**     | **6291**       | **127,899** |
 
