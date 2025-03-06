@@ -73,9 +73,6 @@ This project involves analyzing the **Superstore Sales Data** to segment custome
 ✔️ **Discounts & retention programs** for at-risk customers.  
 ✔️ **Upselling strategies** for high-value customers.  
 
-## 📸 Insights Visualization
-![Superstore Sales Insights](picture/insights.png)
-
 ## 🔗 Connect With Me
 If you have any questions or suggestions, feel free to reach out! 🚀  
 📧 **Email:** gotoshizan@gmail.com  
