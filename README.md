@@ -25,6 +25,16 @@ This project involves analyzing the **Superstore Sales Data** to segment custome
 - Analyzed product count, sales distribution, and customer demographics.
 
 ### 🎯 Findings/Results
+#### 📌 Basic Insights (EDA Summary)
+| Total Customers | Return Rate | Avg. Order Value ($) | Product-Based Margin | Total Profit ($) | Total Sales ($) | Overall Profit Margin | Total Transactions | Total Quantity Sold |
+|---------------|------------|------------------|----------------|----------------|--------------|----------------|----------------|------------------|
+| **2669**     | **5%**     | **$13**          | **0.66**       | **$1,946,247** | **$8,698,172** | **22.38%**     | **6291**       | **127,899** |
+
+📌 **Key Insights:**  
+- **High product-based margin (0.66)**, showing strong profitability across categories.  
+- **Low return rate (5%)**, suggesting customer satisfaction with purchases.  
+- **Healthy overall profit margin (22.38%)**, but **furniture has the lowest margin.**  
+
 #### 📌 Customer Segmentation
 | Segment                          | Customers | Total Transactions |
 |----------------------------------|------------|------------------|
@@ -63,11 +73,13 @@ This project involves analyzing the **Superstore Sales Data** to segment custome
 ✔️ **Discounts & retention programs** for at-risk customers.  
 ✔️ **Upselling strategies** for high-value customers.  
 
+## 📸 Insights Visualization
+![Superstore Sales Insights](picture/insights.png)
+
 ## 🔗 Connect With Me
 If you have any questions or suggestions, feel free to reach out! 🚀  
 📧 **Email:** gotoshizan@gmail.com  
-🔗 **LinkedIn:** [MD NAZMUS SHAKIB SHIZAN](https://www.linkedin.com/in/md-nazmus-shakib-shizan/)
-
+🔗 **LinkedIn:** [MD NAZMUS SHAKIB SHIZAN](https://www.linkedin.com/in/md-nazmus-shakib-shizan/))  
 
 ---
 _If you find this project helpful, don't forget to 🌟 star the repository!_ ⭐
